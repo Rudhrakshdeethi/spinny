@@ -391,7 +391,7 @@
 <script setup>
 import { ref, onMounted, computed } from "vue";
 import { useRoute } from "vue-router";
-import Navbar from "./navbar.vue";
+import Navbar from "./Navbar.vue";
 import router from "../router";
 
 const route = useRoute();

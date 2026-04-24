@@ -101,7 +101,7 @@
 
 <script setup>
 import { reactive, ref } from "vue";
-import Navbar from "./Navbar.vue";
+import Navbar from "./navbar.vue";
 
 const faqs = reactive([
   {

@@ -107,7 +107,7 @@
 
 <script setup>
 import { ref, computed } from "vue";
-import Navbar from "./navbar.vue";
+import Navbar from "./Navbar.vue";
 // EMI Calculator Inputs
 const carPrice = ref(1000000);
 const downPayment = ref(200000);

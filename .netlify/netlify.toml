@@ -1,0 +1,28 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\RUDHRAKSH\\Documents\\spinny\\spinny\\dist"
+publishOrigin = "ui"
+commandOrigin = "ui"
+base = "C:\\Users\\RUDHRAKSH\\Documents\\spinny\\spinny"
+command = "npm run build"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]

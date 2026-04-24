@@ -13,7 +13,7 @@
 <script setup>
 import CarGrid from "@/components/CarGrid.vue";
 import Navbar from "../components/Navbar.vue";
-import heroSection from "@/components/herosection.vue";
+import heroSection from "@/components/heroSection.vue";
 import ChooseUs from "@/components/chooseUs.vue";
 import CustomerTestimonial from "@/components/customerTestimonial.vue";
 import Faq from "@/components/faq.vue";
